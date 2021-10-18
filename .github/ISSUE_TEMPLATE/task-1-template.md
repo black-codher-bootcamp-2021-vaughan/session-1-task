@@ -1,7 +1,7 @@
 ---
 name: task 1 template
 about: template for first task
-title: Task 1
+title: ✅  Task 1
 labels: ''
 assignees: ''
 
